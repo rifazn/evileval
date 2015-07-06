@@ -27,8 +27,4 @@ function evaluate(){
     var action = new Function('console',expressions);
     action(fakeConsole);
     window.scrollTo(0, document.body.scrollHeight);
-<<<<<<< HEAD:script.js
 };
-=======
-};
->>>>>>> master:assets/script.js
