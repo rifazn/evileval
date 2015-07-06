@@ -1,7 +1,12 @@
 .repl{
-    height:50%;
+    height:300px;
+    position:fixed;
+    left:0px;
+    top:0px;
+    width:100%;
 }
 .result{
+    margin-top:300px;
     font-size:2.5em;
     font-family:monospace;
     padding:9px;
